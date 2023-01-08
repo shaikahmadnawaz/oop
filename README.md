@@ -20,5 +20,6 @@ object - physical reality
 **static** - In static we'll create only one instance of that static member that's shared across all instances of the class.
 
 - When a member is declared as static it can be acessed before any of the object of class is being created and without referencing to that object we can access the variables.
-
 - static variables are independent on objects.
+- A static method can access only a static data.
+- You cannot use this keyword inside the static method.

@@ -14,3 +14,5 @@ object - physical reality
 **constructor** - Special function, that runs when you create an object and it allocates some variables.
 
 **this** - Refers to the current object in a method or constructor
+
+**package** - A package in Java is used to group related classes. Think of it as a folder in a file directory. We use packages to avoid name conflicts, and to write a better maintainable code.
